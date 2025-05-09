@@ -1,3 +1,3 @@
-﻿module github.com/DimKa163/cautious-octo-carnival
+module github.com/DimKa163/cautious-octo-carnival
 
 go 1.24
